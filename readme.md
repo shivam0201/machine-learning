@@ -1,0 +1,1 @@
+This repository will act as my machine learning record book. I agree that I am no champion in machine learning, so my initial programs would be taken from tutorials. I expect to make my own as I proceed and grow further.
